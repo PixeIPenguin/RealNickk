@@ -1,7 +1,7 @@
 # H3x0R
 You might know me on the Roblox exploiting forums or on Discord. Let me tell you some things about me.    
 - I am a self-taught programmer that focuses mainly on client development. 
-- I can code fluently in 3 scripting and programming languages, and I can partially code in 5 languages.
+- I can code fluently in 4 scripting and programming languages, and I can partially code in 5 languages.
 - I script the best in Lua 5.1.
 - I enjoy game exploiting and generic reverse engineering.
 - I joined GitHub in the beginning of 2020.    
