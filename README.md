@@ -8,7 +8,7 @@ Looks like you found me—whoever you are. Let me tell you some things about me.
 
 Discord: H3x0R#4231
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api/?username=LegitH3x0R)
+![Metrics](https://metrics.lecoq.io/LegitH3x0R?template=terminal&config.timezone=America%2FChicago)
 
 <!--
 **LegitH3x0R/LegitH3x0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
