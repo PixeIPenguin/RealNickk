@@ -1,12 +1,12 @@
 # H3x0R
 Looks like you found me—whoever you are. Let me tell you some things about me.    
 - I'm currently going through high school.
-- I am a self-taught programmer that focuses mainly on frontend development.    
-- I enjoy game exploiting and generic reverse engineering.    
+- I am a self-taught programmer that like lego games.    
+- I enjoy reverse engineering programs.    
 - I am a pretty straightforward person, but I struggle communicating face to face.    
 - I joined GitHub in the beginning of 2020.    
 
-Discord: H3x0R#4231
+Discord: nickk#0104
 
 ![Metrics](https://metrics.lecoq.io/LegitH3x0R?template=terminal&config.timezone=America%2FChicago)
 
