@@ -1,14 +1,25 @@
-# H3x0R
-Looks like you found me—whoever you are. Let me tell you some things about me.    
-- I'm currently going through high school.
-- I am a self-taught programmer that like lego games.    
-- I enjoy reverse engineering programs.    
-- I am a pretty straightforward person, but I struggle communicating face to face.    
+# H3x0R (nick)
+Hello, looks like you're curious about who I am. There's not much to know about me, but I'll tell you a few things:
+- I'm 15 years old, and I'm in high school.    
+- I am learning Russian, slowly but surely.    
+- I am a self-taught programmer (However, I took standard JavaScript classes in 9th grade)     
+- I am currently studying malware analysis and Windows internals.    
 - I joined GitHub in the beginning of 2020.    
 
-Discord: nickk#0104
+Languages I know:
+- C/C++
+- JavaScript
+- Lua/Luau
+- C#
 
-![Metrics](https://metrics.lecoq.io/LegitH3x0R?template=terminal&config.timezone=America%2FChicago)
+Social Highlights:
+- People find me very terse and straightforward.    
+- I don't like small talk unless I know you.     
+
+Website: https://rethinkify.tech/    
+Discord: `nickk#0104` (929520707669475358)
+
+I'm available for help but I am not your slave. I will not feed you code with a spoon, because you don't learn anything by pasting code. I support using and looking at other people's work, as long as you follow their license guidelines and credit them. If you're going to waste my time, I won't talk to you.
 
 <!--
 **LegitH3x0R/LegitH3x0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
