@@ -1,4 +1,4 @@
-# H3x0R (nick)
+# hi im nick
 Hello, looks like you're curious about who I am. There's not much to know about me, but I'll tell you a few things:
 - I'm 15 years old, and I'm in high school.    
 - I am learning Russian, slowly but surely.    
@@ -11,6 +11,7 @@ Languages I know:
 - JavaScript
 - Lua/Luau
 - C#
+- Pseudo-Intel Assembly
 
 Social Highlights:
 - People find me very terse and straightforward.    
@@ -18,6 +19,7 @@ Social Highlights:
 
 Website: https://rethinkify.tech/    
 Discord: `nickk#0104` (929520707669475358)
+Aliases: nickk, H3x0R, OpenGamerTips
 
 I'm available for help but I am not your slave. I will not feed you code with a spoon, because you don't learn anything by pasting code. I support using and looking at other people's work, as long as you follow their license guidelines and credit them. If you're going to waste my time, I won't talk to you.
 
