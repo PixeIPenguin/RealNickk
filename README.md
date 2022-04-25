@@ -18,7 +18,7 @@ Social Highlights:
 - I don't like small talk unless I know you.     
 
 Website: https://rethinkify.net/    
-Discord: `nickk#0104` (929520707669475358)
+Discord: `nickk#0104` (929520707669475358)    
 Aliases: nickk, H3x0R, OpenGamerTips
 
 I'm available for help but I am not your slave. I will not feed you code with a spoon, because you don't learn anything by pasting code. I support using and looking at other people's work, as long as you follow their license guidelines and credit them. If you're going to waste my time, I won't talk to you.
