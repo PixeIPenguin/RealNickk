@@ -17,7 +17,7 @@ Social Highlights:
 - People find me very terse and straightforward.    
 - I don't like small talk unless I know you.     
 
-Website: https://rethinkify.tech/    
+Website: https://rethinkify.net/    
 Discord: `nickk#0104` (929520707669475358)
 Aliases: nickk, H3x0R, OpenGamerTips
 
