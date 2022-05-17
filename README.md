@@ -1,4 +1,7 @@
 # hi im nick
+![](https://raw.githubusercontent.com/realnickk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/realnickk/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 Hello, looks like you're curious about who I am. There's not much to know about me, but I'll tell you a few things:
 - I'm 15 years old, and I'm in high school.    
 - I am learning Russian, slowly but surely.    
