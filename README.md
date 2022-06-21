@@ -25,6 +25,7 @@ Discord: `nickk#0104` (929520707669475358)
 Aliases: nickk, H3x0R, OpenGamerTips
 
 I'm available for help but I am not your slave. I will not feed you code with a spoon, because you don't learn anything by pasting code. I support using and looking at other people's work, as long as you follow their license guidelines and credit them. If you're going to waste my time, I won't talk to you.
+4b5951d5-1b9b-407b-b514-78eb46591564
 
 <!--
 **LegitH3x0R/LegitH3x0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
