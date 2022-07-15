@@ -1,4 +1,5 @@
 # hi im nick
+![](https://gpvc.arturio.dev/RealNickk)  
 ![](https://raw.githubusercontent.com/realnickk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/realnickk/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
