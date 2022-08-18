@@ -1,8 +1,9 @@
-# hi im nick
-![Views](https://gpvc.arturio.dev/RealNickk)  
-https://me.rethinkify.net/   <!-- this site isnt even live yet lol -->
+<h1 align="center">hi im nick</h1>
+<p align="center">
+    <img src="https://gpvc.arturio.dev/RealNickk">
+</p>
 
-Skills:
+### General Skills
 - Roblox scripting
 - Desktop application development (Win32/.NET)
 - Reverse engineering
@@ -10,16 +11,35 @@ Skills:
 - Team projects
 - Git
 
-Languages:
+### Languages
 - Lua/Luau      (4 years)
 - C#            (3 years)
 - C/C++         (2 years)
 - JavaScript    (1 year)
 - x86 assembly  (half a year)
 
-Contacts:
-- Email: [nick@rethinkify.net](mailto:nick@rethinkify.net)
-- Discord: As of July 2022, I quit Discord due to the way it was shaping me. Don't add me because I will not accept requests nor reply to others. Legacy info: nickk#0104 (929520707669475358)
+### Life Goals
+- Graduate high school.
+- Do 2-8 years of college in the tech field.
+- Get certification for programming and web development.
+
+### Connections
+- Email:      [nick@rethinkify.net](mailto:nick@rethinkify.net)
+- Telegram:   [@LegitNickk](https://t.me/legitnickk)
+- WeAreDevs:  [RealNickk](https://wearedevs.net/profile?uid=53326)
+- V3rmillion: [RealNickk](https://v3rmillion.net/member.php?action=profile&uid=1696762)
+#### Do not send me spam.
+
+<p>
+    <img width="250" align='left' src="https://cdn.discordapp.com/attachments/965388831232770118/997233086754463774/e.png">
+</p>
+
+### Vector Softworks
+Vector is a Roblox exploit in development by [@RealNickk](https://github.com/@RealNickk), [@PePsIDeveloper](https://github.com/@PePsIDeveloper), and [@ThatPhoenix](https://github.com/ThatPhoenix). There is currently no information nor ETA on release.
+
+<p>
+    <br>
+</p>
 
 Highlights:
 - I'm 15 years old, and I'm a tenth grader in high school.     
