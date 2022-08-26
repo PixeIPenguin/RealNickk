@@ -26,6 +26,7 @@
 - WeAreDevs:  [RealNickk](https://wearedevs.net/profile?uid=53326)
 - V3rmillion: [RealNickk](https://v3rmillion.net/member.php?action=profile&uid=1696762)
 #### Do not send me spam.
+#### I'm surprised I even have to say this, but if you have an issue with my code because I made a mistake that probably isn't even that big of a deal, just tell me how to improve it or make a pull request. If you don't want to do either and you'd rather harass me online, then don't bother annoying me.
 
 ## Organizations
 <p>
