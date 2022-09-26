@@ -24,7 +24,7 @@
 - Email:      [nick@rethinkify.net](mailto:nick@rethinkify.net)
 - WeAreDevs:  [RealNickk](https://wearedevs.net/profile?uid=53326)
 - V3rmillion: [RealNickk](https://v3rmillion.net/member.php?action=profile&uid=1696762)
-#### Do not send me spam.
+- My name is a pseudonym, and you will not find any information on me with it.
 
 ## Organizations
 <p>
