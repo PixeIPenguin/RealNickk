@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <br><br>
     <!-- Socials -->
-    <a href="mailto:nick@rethinkify.net">
+    <a href="mailto:nick@substrant.dev">
         <img src="https://shields.io/badge/Email-0463b7?logo=microsoft+outlook&style=for-the-badge">
     </a>
     <a href="https://wearedevs.net/profile?uid=53326">
