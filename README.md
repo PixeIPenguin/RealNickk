@@ -3,6 +3,7 @@
 ---
 
 <p>
+    <!-- Languages and Tools -->
     <img src="https://img.shields.io/badge/Lua/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
     <img src="https://img.shields.io/badge/C%23/.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B/Win32-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -10,10 +11,12 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <br><br>
+    <!-- Preferred Stuff -->
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <br><br>
+    <!-- Socials -->
     <a href="mailto:nick@rethinkify.net">
         <img src="https://shields.io/badge/Email-0463b7?logo=microsoft+outlook&style=for-the-badge">
     </a>
@@ -26,6 +29,16 @@
 </p>
 
 ---
+
+<!-- Large Projects -->
+
+<a href="https://github.com/Substrant/Starlight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Substrant&repo=Starlight&theme=transparent">
+</a>
+
+---
+
+<!-- Bio -->
 
 ### RealNickk
 - I'm a high school undergraduate.
